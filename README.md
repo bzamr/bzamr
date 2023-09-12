@@ -1,13 +1,16 @@
 ### Hi 👋 My name is Amirreza
 ---
 
-# Software Engineering Student
+ Software Engineering Student
 ---
 
 - 🌱 I’m currently learning Rust.
 
-[![Amirreza GitHub stats](https://github-readme-stats.vercel.app/api?username=bzamr)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzamr)]
+
+
+![Amirreza GitHub stats](https://github-readme-stats.vercel.app/api?username=bzamr?theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzamr?theme=tokyonight)
 
 
 <!--
