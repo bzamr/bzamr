@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Amirreza
 ---
 
-#Software Engineering Student
+# Software Engineering Student
 ---
 
 - 🌱 I’m currently learning Rust.
